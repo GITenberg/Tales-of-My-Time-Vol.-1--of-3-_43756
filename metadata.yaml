@@ -1,0 +1,50 @@
+_repo: Tales-of-My-Time-Vol.-1--of-3-_43756
+_version: 0.1.0
+contributor:
+  dubious_authors:
+  - agent_name: Loudon, Mrs. (Jane)
+    aliases:
+    - Loudon, Jane Webb
+    - Loudon, Jane
+    - Webb, Jane
+    birthdate: 1807
+    deathdate: 1858
+    gutenberg_agent_id: '44664'
+    url: http://www.gutenberg.org/2009/agents/44664
+    wikipedia: https://en.wikipedia.org/wiki/Jane_C._Loudon
+  - agent_name: Dacre, Barbarina, Lady
+    aliases:
+    - Dacre, Barbarina Ogle Brand, Baroness
+    - Brand, Barbarina, Lady
+    - Wilmot, Barbarina
+    birthdate: 1767
+    deathdate: 1854
+    gutenberg_agent_id: '42348'
+    url: http://www.gutenberg.org/2009/agents/42348
+covers:
+- cover_type: archival
+  image_path: 43756-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Scargill, William Pitt
+    alias: Scargill, W. Pitt (William Pitt)
+    birthdate: 1787
+    deathdate: 1836
+    gutenberg_agent_id: '40919'
+    url: http://www.gutenberg.org/2009/agents/40919
+description: Attributed to W.P. Scargill by Halkett & Laing and by NUC pre-1956; also
+  attributed to Mrs. J.C. Loudon. Cf. Halkett & Laing. Erroneously attributed to Mrs.
+  Barbarina Wilmot in the Bentley Catalogue, Oct. 23, 1829.
+gutenberg_issued: '2013-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43756'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PR'
+title: "Tales of My Time, Vol. 1 (of 3)\r\nWho Is She?"
+url: http://www.gutenberg.org/ebooks/43756
